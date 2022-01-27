@@ -1119,6 +1119,7 @@ label {
   padding-top: 16px;
   margin-bottom: 24px;
   position: relative;
+  font-weight: bold;
 }
 .services__title::before {
   content: "";
