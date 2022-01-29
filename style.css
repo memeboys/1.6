@@ -2079,6 +2079,7 @@ a:hover {
   .footer__date_birth {
     margin-bottom: 0;
     max-width: 218px;
+    text-align: center;
   }
 }
 
