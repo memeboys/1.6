@@ -2073,19 +2073,20 @@ a:hover {
 .footer__date_birth {
   max-width: 290px;
   margin-bottom: 10px;
-  text-align: left;
+  text-align: center;
 }
 @media (min-width: 768px) {
   .footer__date_birth {
     margin-bottom: 0;
     max-width: 218px;
-    text-align: center;
+    text-align: left;
   }
 }
 
 .footer__politics {
   max-width: 214px;
   margin-bottom: 10px;
+  text-align: center;
 }
 @media (min-width: 768px) {
   .footer__politics {
@@ -2097,13 +2098,13 @@ a:hover {
 .footer__date_info {
   max-width: 280px;
   margin-bottom: 10px;
-  text-align: right;
+  text-align: center;
 }
 @media (min-width: 768px) {
   .footer__date_info {
     margin-bottom: 0;
     max-width: 215px;
-    text-align: center;
+    text-align: right;
   }
 }
 @media (min-width: 1120px) {
