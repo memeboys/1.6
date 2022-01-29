@@ -2090,6 +2090,7 @@ a:hover {
 @media (min-width: 768px) {
   .footer__politics {
     margin-bottom: 0;
+    text-align: center;
   }
 }
 
@@ -2102,6 +2103,7 @@ a:hover {
   .footer__date_info {
     margin-bottom: 0;
     max-width: 215px;
+    text-align: center;
   }
 }
 @media (min-width: 1120px) {
