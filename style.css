@@ -1114,12 +1114,12 @@ label {
   margin-bottom: 50px;
 }
 .services__title {
+  font-weight: bold;
   font-size: 28px;
   line-height: 40px;
   padding-top: 16px;
   margin-bottom: 24px;
   position: relative;
-  font-weight: bold;
 }
 .services__title::before {
   content: "";
@@ -1713,7 +1713,6 @@ nav::after {
   left: 0;
   top: 0;
   z-index: 300;
-  overflow: scroll;
   box-shadow: -2px 0px 4px rgba(69, 79, 126, 0.02), 16px 0px 52px rgba(14, 24, 80, 0.2);
 }
 
